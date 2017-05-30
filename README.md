@@ -6,7 +6,7 @@ selenium
 phantomjs
 beautifulsoup
 
-# change all setting in setting.py
+## change all setting in setting.py
 
 the effectiveness of this script is about 
 30K/h in Los Angeles
