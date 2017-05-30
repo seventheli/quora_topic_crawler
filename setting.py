@@ -1,0 +1,137 @@
+max_topic_in_single_total = 100000
+phantomjs_path = 'C:/Users/SeventhEli/Documents/phantomjs/bin/phantomjs'
+save_path = './files/'
+pickle_path = './pickles/'
+proxy_or_not = True
+service_args = [
+    '--proxy=127.0.0.1:1080',
+    '--proxy-type=socks5',
+    '--load-images=false'
+]
+proxy = {
+    'proxy_host': 'http://127.0.0.1',
+    'proxy_port': 1080
+}
+text = """Algorithms
+Book-Recommendations
+Books
+Business-49
+Business-Models
+Business-Strategy
+Business-Work-and-Careers
+Career-Advice
+Clothing-and-Apparel
+Comedy
+Computer-Programming
+Computer-Science
+Cooking
+Cricket(sport)
+Dating-Advice
+Dating-and-Relationships
+Design
+Digital-Photography
+Economics
+Education
+Education-Schools-and-Learning
+Entertainment
+Entrepreneurship
+Exercise
+Exercise
+Facebook(product)
+Fashion-and-Style
+Fiction
+Finance
+Fine-Art
+Food
+Football(Soccer)
+Friendship
+Game-of-Thrones(TV-series)
+Google(company)
+Government
+Graduate-School-Education
+Health
+Healthy-Eating
+Healthy-Living
+Higher-Education
+History
+History-of-the-United-States-of-America
+Hollywood
+How-I-Met-Your-Mother(TV-series)
+Humor
+International-Relations
+International-Travel
+Interpersonal-Interaction
+Investing
+Journalism
+Lean-Startups
+Learning
+Life-Advice
+Life-and-Living
+Life-Lessons
+Literary-Fiction
+Literature
+Love
+Machine-Learning
+Marketing
+Marriage
+Mathematics
+Medicine-and-Healthcare
+Mental-Health
+Military-History-and-Wars-
+Money
+Movies
+Music
+Musicians
+Neuroscience
+Novels
+Nutrition
+Personal-Finance
+Philosophy
+Philosophy
+Philosophy-of-Science
+Photography
+Physics
+Politics
+Probability(statistics)
+Product-Design-of-Physical-Goods
+Programming-Languages
+Psychology
+Quora
+Reading
+Recipes
+Religion
+Restaurants
+Rock-Music
+Science
+Scientific-Research
+Self-Improvement
+Social-Advice
+Social-Media
+Social-Psychology
+Software-Engineering
+Sports
+Startup-Advice-and-Strategy
+Startup-Founders-and-Entrepreneurs
+Startups
+Startups
+Statistics(academic-discipline)
+Stock-Markets
+Technology
+Technology-Trends
+TED
+Television
+Television-Series
+The-College-and-University-Experience
+The-Universe
+Tips-and-Hacks-for-Everyday-Life
+Tourism
+Travel-Hacks
+User-Interfaces
+Vacations
+Venture-Capital
+Visiting-and-Travel-1
+Web-Design
+World-History
+World-War-II
+Writing
+YouTube"""
